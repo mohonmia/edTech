@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.courses {
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 50px;
+    row-gap: 20px;
+}
+button.btn {
+    background: #289BDE;
+    color: #fff;
+    border-radius: 3px;
+    margin-top: 20px;
+}
+section.container.courses-sec, .faq {
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.subsribe{
+    background-color: #289BDE;
+    color: #fff;
+    padding: 80px 100px;
+    border-radius: 5px;
+}
+.sub-btn .btn {
+    background: #fff;
+    color: #289BDE;
+}
+.heading {
+    font-weight: 600;
+}
+div#accordionExample {
+    width: 76%;
+    margin: auto;
+}
+.brand-logo img {
+    width: 130px;
+}
+.brand-logo {
+    margin-top: 30px;
+}
+.brand{
+    margin-bottom: 130px;
+}
+footer{
+    background: #161616;
+    padding-top: 130px;
+    padding-bottom: 130px;
+    color: #fff;
+}
+h3.f-h{
+    color: #fff;
+    font-weight: 700;
+}
